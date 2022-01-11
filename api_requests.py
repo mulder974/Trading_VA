@@ -5,8 +5,7 @@ import time
 
 
 
-
-
+#access old data with the link : https://public.bybit.com/premium_index/BTCUSD/
 
 def get_last_data(session,symbol):
     
